@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.dmsg" "\0"
-            VALUE "FileDescription", "dmsg20" "\0"
+            VALUE "CompanyName", "com.example" "\0"
+            VALUE "FileDescription", "g20dms" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "dmsg20" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.dmsg. All rights reserved." "\0"
-            VALUE "OriginalFilename", "dmsg20.exe" "\0"
-            VALUE "ProductName", "dmsg20" "\0"
+            VALUE "InternalName", "g20dms" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "g20dms.exe" "\0"
+            VALUE "ProductName", "g20dms" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
